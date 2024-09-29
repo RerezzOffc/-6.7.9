@@ -9,5 +9,5 @@ PASANG DI FILE package.json
 <a href="https://free.for.all.by.xyrezz.shopwebsite.my.id">WEBSITE KUMPUL SC FREE</a>
 
 
-<a href="https://github.com/Awafff">© Rerezz Official</a>
-<a href="https://github.com/KyuuRzy>© KyuuRzy</a>
+<a href="https://github.com/Awafff">© Rerezz Official</a><br>
+<a href="https://github.com/KyuuRzy">© KyuuRzy</a>
