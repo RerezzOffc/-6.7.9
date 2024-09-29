@@ -7,3 +7,7 @@ PASANG DI FILE package.json
 <a href="https://whatsapp.com/channel/0029VaofHDeI7BeLcrFY9744">MY CHANNEL OFFICIAL #2</a><br><br>
 <a href="https://www.youtube.com/@RerezzOffc">MY YOUTUBE CHANNEL</a><br><br>
 <a href="https://free.for.all.by.xyrezz.shopwebsite.my.id">WEBSITE KUMPUL SC FREE</a>
+
+
+<a href="https://github.com/Awafff">© Rerezz Official</a>
+<a href="https://github.com/KyuuRzy>© KyuuRzy</a>
