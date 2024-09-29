@@ -1,1 +1,3 @@
-> "whiskeyshocket/Baileys": "github:Awafff/XyrezzNotSepuh",
+```
+ "whiskeyshocket/Baileys": "github:Awafff/XyrezzNotSepuh",
+```
