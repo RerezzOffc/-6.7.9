@@ -3,10 +3,6 @@ PASANB DI FILE package.json  YA GUYS YA
 ```
  "whiskeyshocket/Baileys": "github:Awafff/XyrezzNotSepuh",
 ```
-
-<br><br>
-
-<!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
